@@ -2,61 +2,9 @@
 
 ## Introduction
 
-Welcome to **Particle Simulation V1**, a project dedicated to visualizing particle interactions using computational simulations. This simulation employs the **Lennard-Jones potential** to track particle motion within a **3D box**, illustrating how particles attract and repel each other under Newtonian mechanics. The model demonstrates how **energy conservation** governs movement and how trajectories evolve over time.
+Welcome to **Particle Simulation V1**, a novice project dedicated to visualizing particle interactions using computational simulations in a 2D plane. This simulation employs the **Lennard-Jones potential** to track particle motion within a **3D box**, illustrating how particles attract and repel each other under Newtonian mechanics. The model demonstrates how **energy conservation** governs movement and how trajectories evolve over time.
 
-This project serves as an initial step toward scaling up simulations to analyze **complex chemical systems**. By refining accuracy and scalability, I aim to explore molecular interactions, phase transitions, and reaction dynamics. Ultimately, this work contributes to the broader field of **materials science and biochemical research**. This video is part of my personal **maker portfolio**, where I document my work in **coding, research, and robotics**. As I enhance this model, I aspire to bridge the gap between fundamental physics and real-world molecular interactions, showcasing how computational simulations offer insights into atomic and molecular-level behaviors.
-
-## Features
-
-- **Particle Interaction:** Simulates forces of attraction and repulsion using the Lennard-Jones potential.
-- **Dynamic Visualization:** Displays real-time movement of particles under Newtonian mechanics.
-- **Energy Conservation:** Ensures accurate tracking of kinetic and potential energy.
-- **Scalability:** Allows for an increasing number of particles and adjustable simulation parameters.
-- **Real-World Applications:** Potential use in modeling molecular interactions, thermodynamics, and reaction kinetics.
-
-## Installation & Usage
-
-To get started with **Particle Simulation V1**, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Particle-Simulation-V1.git
-   cd Particle-Simulation-V1
-
-# Particle Simulation V1
-
-## Introduction
-
-Welcome to **Particle Simulation V1**, a project dedicated to visualizing particle interactions using computational simulations. This simulation employs the **Lennard-Jones potential** to track particle motion within a **3D box**, illustrating how particles attract and repel each other under Newtonian mechanics. The model demonstrates how **energy conservation** governs movement and how trajectories evolve over time.
-
-This project serves as an initial step toward scaling up simulations to analyze **complex chemical systems**. By refining accuracy and scalability, I aim to explore molecular interactions, phase transitions, and reaction dynamics. Ultimately, this work contributes to the broader field of **materials science and biochemical research**. This video is part of my personal **maker portfolio**, where I document my work in **coding, research, and robotics**. As I enhance this model, I aspire to bridge the gap between fundamental physics and real-world molecular interactions, showcasing how computational simulations offer insights into atomic and molecular-level behaviors.
-
-## Features
-
-- **Particle Interaction:** Simulates forces of attraction and repulsion using the Lennard-Jones potential.
-- **Dynamic Visualization:** Displays real-time movement of particles under Newtonian mechanics.
-- **Energy Conservation:** Ensures accurate tracking of kinetic and potential energy.
-- **Scalability:** Allows for an increasing number of particles and adjustable simulation parameters.
-- **Real-World Applications:** Potential use in modeling molecular interactions, thermodynamics, and reaction kinetics.
-
-## Installation & Usage
-
-To get started with **Particle Simulation V1**, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Particle-Simulation-V1.git
-   cd Particle-Simulation-V1
-
-   Here is the edited README.md in markdown format:
-
-# Particle Simulation V1
-
-## Introduction
-
-Welcome to **Particle Simulation V1**, a project dedicated to visualizing particle interactions using computational simulations. This simulation employs the **Lennard-Jones potential** to track particle motion within a **3D box**, illustrating how particles attract and repel each other under Newtonian mechanics. The model demonstrates how **energy conservation** governs movement and how trajectories evolve over time.
-
-This project serves as an initial step toward scaling up simulations to analyze **complex chemical systems**. By refining accuracy and scalability, I aim to explore molecular interactions, phase transitions, and reaction dynamics. Ultimately, this work contributes to the broader field of **materials science and biochemical research**. This video is part of my personal **maker portfolio**, where I document my work in **coding, research, and robotics**. As I enhance this model, I aspire to bridge the gap between fundamental physics and real-world molecular interactions, showcasing how computational simulations offer insights into atomic and molecular-level behaviors.
+This project serves as my initial step toward scaling up simulations to analyze **complex chemical systems**. By refining accuracy and scalability, I aim to eventually explore molecular interactions, phase transitions, and reaction dynamics. Ultimately, this work contributes to the broader field of **materials science and biochemical research**. This code is part of my personal **maker portfolio**, where I document my work in **coding, research, and robotics**. As I enhance this model, I aspire to bridge the gap between fundamental physics and real-world molecular interactions, showcasing how computational simulations offer insights into atomic and molecular-level behaviors.
 
 ## Features
 
