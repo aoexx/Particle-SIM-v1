@@ -79,3 +79,7 @@ if __name__ == "__main__":
     config.background_color = BLACK  # Optional: Set background color
     scene = ParticleSimulation()
     scene.render()
+
+
+# NOTE: This version uses basic PBCs instead of reflective boundaries
+# See the final version (Particle-SIM-v2: MD_SIM-AD-2-1.py) for improved boundary handling
