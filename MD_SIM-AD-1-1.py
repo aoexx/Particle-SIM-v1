@@ -1,3 +1,7 @@
+# NOTE: This is the first version of my molecular dynamics simulation
+# It uses simple periodic boundary conditions (PBCs), 2D visualization (Matplotlib + Seaborn), and has energy calculation (but no trajectory tracking features)
+# See the final version (Particle-SIM-v2: MD_SIM-AD-2-1.py) for improved visualization, force calculations, and boundary handling
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
@@ -95,7 +99,3 @@ video_path = "particle_simulation.gif"
 ani_2d.save(video_path, writer="pillow", fps=20)
 
 print("Animation saved as", video_path)
-
-# This is the first version of my molecular dynamics simulation.
-# It uses simple periodic boundary conditions (PBCs), 2D visualization (Matplotlib + Seaborn), and has energy calculation (but no trajectory tracking features)
-# See the final version (Particle-SIM-v2: MD_SIM-AD-2-1.py) for improved visualization, force calculations, and boundary handling
