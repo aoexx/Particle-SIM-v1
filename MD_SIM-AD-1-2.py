@@ -1,3 +1,8 @@
+# NOTE: This version introduces 3D visualization using Manim but still applies basic periodic boundary conditions (PBCs)
+# It does not yet implement reflective boundaries, leading to potential artifacts at box edges.
+# Additionally, velocity updates use basic Verlet integration, which does not fully conserve energy over long simulations
+# See the final version (Particle-SIM-v2: MD_SIM-AD-2-1.py) for improved boundary handling, Velocity-Verlet integration, and optimized force calculations!
+
 from manim import *
 import numpy as np
 
